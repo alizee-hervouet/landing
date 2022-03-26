@@ -1,0 +1,18 @@
+.banner{
+	background-image: linear-gradient(-220deg, white 0%, rgba(0,0,0,0.8) 0%, rgba(250,250,250,0.2) 50%), url(https://media.istockphoto.com/photos/laconic-image-of-fingers-touching-laptop-keyboard-picture-id1165872099?k=20&m=1165872099&s=612x612&w=0&h=iPKrRHJMuCGqKOUkk2PCoxcVKd9QLLCuSt0d_8BVoeM=);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1{
+	font-size: 50px;
+}
+
+.banner h2{
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 40px;
+}
